@@ -1,0 +1,27 @@
+.overView__bottom{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    letter-spacing: 1px;
+}
+
+/*==================== Sales data display design STARTS ===============*/
+.bottom__salesNumber{
+    color: #383874;
+}
+.bottom__salesNumber .bottom__salesNumber-title{
+    font-size: 12px;
+}
+.bottom__salesNumber .bottom__salesNumber-amount{
+    font-weight: 650;
+}
+/*==================== Sales data display design ENDS ===============*/
+
+
+/*================= barChart design STARTS ===================*/
+.bottom__barChart{
+    width: 85%;
+    height: 40px;
+}
+/*================= barChart design ENDS ===================*/

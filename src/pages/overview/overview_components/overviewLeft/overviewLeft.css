@@ -1,0 +1,97 @@
+.overView__left {
+    width: 218px;
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 3rem;
+}
+/* Hakathon Title */
+.overView__left-title {
+    font-family: 'Archivo', sans-serif;
+    font-weight: 600;
+    font-size: .8rem;
+    line-height: 22px;
+    margin-bottom: 2rem;
+}
+
+/* Amount */
+.overView__left-amount {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.overView__left-amount .overView__left-amount__box1 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.15px;
+    color: #383874;
+}
+
+.overView__left-amount .overView__left-amount__box1>span {
+    font-weight: 700;
+    font-size: 8px;
+    line-height: 16px;
+    letter-spacing: 1.5px;
+}
+
+.overView__left-amount .overView__left-amount__box2 {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 3rem;
+    color: #383874;
+}
+
+/* indicators STARTS here */
+.overView__left-side__indicators {
+    line-height: .5rem;
+    margin-bottom: 2rem;
+}
+
+.overView__left-side__indicators .overView__left-side__indicators-box {
+    display: flex;
+    align-items: center;
+}
+
+.overView__left-side__indicators .overView__left-side__indicators-box .indicator {
+    /* background: #8676FF; */
+    width: 55px;
+    height: 55px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1rem;
+}
+/* indicators ENDS here */
+
+/* dough chart STARTS here */
+.overView__left-dough {
+    /* background: #EEF0FA; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.overView__left-dough .dough {
+    margin-right: .8rem;
+}
+.overView__left-dough .dough__title{
+    width: 6.5rem;
+}
+
+.overView__left-dough .overView__left-dough__box1 {
+    display: flex;
+    line-height: 1rem;
+    /* margin-right: 1rem; */
+}
+
+.overView__left-dough .overView__left-dough__box2 {
+    display: flex;
+    line-height: 1rem;
+    /* margin-right: 1rem; */
+}
+/* dough chart ENDS here */

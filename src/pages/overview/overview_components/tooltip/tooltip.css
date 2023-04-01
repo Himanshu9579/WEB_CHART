@@ -1,0 +1,64 @@
+.tooltip {
+    display: flex;
+    position: absolute;
+    background-color: #ffffff;
+    width: min-content;
+    height: 35px;
+    color: #383874;
+    letter-spacing: 1px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0px 109px 80px rgba(198, 162, 226, 0.14), 0px 45.5376px 33.4221px rgba(174, 155, 189, 0.101), 0px 24.3466px 17.869px rgba(183, 147, 212, 0.083), 0px 13.6485px 10.0172px rgba(144, 110, 172, 0.07), 0px 7.24861px 5.32008px rgba(255, 255, 255, 0.057), 0px 3.01631px 2.21381px rgba(30, 30, 31, 0.039);
+}
+
+.tooltip:before {
+    content: "";
+    position: absolute;
+    border-top: 10px solid #fff;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    top: 100%;
+    left: 35%;
+    margin-left: -5px;
+    margin-top: -5px;
+} 
+
+.tooltip:hover{
+    width: 110px;
+    height: 40px;
+}
+
+
+/* Tooltip inner design starts here */
+.tooltip__icon {
+    display: flex;
+    background-color: rgb(82, 190, 154);
+    width: 28px;
+    height: 28px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    margin: 0 4px;
+}
+
+/* Icons in tooltip */
+.tooltip__icon .icons{
+    color: #fff;
+}
+
+.tooltip__detail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 4px;
+}
+
+.tooltip__detail .tooltip__detail-heading {
+    font-size: 10px;
+}
+
+.tooltip__detail .tooltip__detail-number {
+    font-size: 12px;
+    font-weight: 700;
+}

@@ -1,0 +1,13 @@
+.overView__right-map{
+    position: absolute;
+    width: 60%;
+    right: 10%;
+}
+
+.overView__right-tooltip{
+    /* position: absolute; */
+    /* background-color: rgb(123, 173, 125); */
+    width: 90vw;
+    height: 80vh;
+    position: relative;
+}

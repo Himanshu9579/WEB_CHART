@@ -1,0 +1,45 @@
+.navbar {
+    display: flex;
+    height: 3rem;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+a {
+    font-weight: 300;
+    text-decoration: none;
+    color: #8484A0
+}
+
+/* ==================== Active class after clicking in NavLinks ========================= */
+.active {
+    color: black;
+    font-weight: 400;
+    border: 1px solid #fff;
+    border-bottom-color: #afa8f8;
+}
+
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.logo img {
+    height: 2.3rem;
+    padding: 0.5rem;
+}
+
+.user__icon {
+    font-size: 23px;
+    color: #A1A3D4;
+    cursor: pointer;
+}
+
+.menu {
+    font-size: 23px;
+    color: #A1A3D4;
+    cursor: pointer;
+}
