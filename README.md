@@ -86,6 +86,8 @@ This was a 96hr long project duing the Wasserstoff Hackathon. Project goals incl
 
 ## Project Explanation Video link
 
+https://www.loom.com/share/4e4d97a1d6bf4d029f965151b01b07cc
+
 
 
 😊👍
