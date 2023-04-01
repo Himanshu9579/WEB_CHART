@@ -76,7 +76,7 @@ This was a 96hr long project duing the Wasserstoff Hackathon. Project goals incl
 - For positioning the layout and elements i have used CSS property `flex` (a lot of CSS work).
 
 - So, now you are having all the basic and important info of the project. I hope you will like my project, I know i can do better than this but have tried my best to implement all the feature and functionalities according to the template in this tight time boundation.
-- All positive feedbacks are Welcome ** email me : 19vishesh@gmail.com **
+- All positive feedbacks are Welcome ** email me : netcomhimanshug@gmail.com
 
 
 
@@ -86,7 +86,7 @@ This was a 96hr long project duing the Wasserstoff Hackathon. Project goals incl
 
 ## Project Explanation Video link
 
-https://www.loom.com/share/4e4d97a1d6bf4d029f965151b01b07cc
+https://www.loom.com/share/bca677a0ab704a99bc626674eac4d592
 
 
 
